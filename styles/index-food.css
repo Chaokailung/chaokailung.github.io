@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+}
+
+box1 {
+    display: inline-block;
+    color: blue;
+}
